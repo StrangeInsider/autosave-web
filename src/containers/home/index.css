@@ -1,0 +1,10 @@
+.welcomePage {
+    display: grid;
+    grid-template-columns: 1fr 0.5fr;
+    grid-template-rows: 1fr 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    height: 100%;
+    width: 100%;
+    @apply mt-36 px-16
+}

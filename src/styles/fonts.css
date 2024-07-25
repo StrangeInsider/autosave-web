@@ -1,0 +1,9 @@
+@font-face {
+    font-family: bpg;
+    src: url('../assets/fonts/bpg_le_studio_02_caps.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: fira;
+    src: url('../assets/fonts/FiraGO-Light.otf') format('truetype');
+}

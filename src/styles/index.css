@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("./fonts.css");
+
+body {
+    @apply bg-[#D0D0D0] box-border;
+}
+
